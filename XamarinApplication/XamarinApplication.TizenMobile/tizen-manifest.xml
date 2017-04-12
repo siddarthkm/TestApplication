@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="XamarinApplication.TizenMobile" version="1.0.0" api-version="3.0" xmlns="http://tizen.org/ns/packages">
+	<profile name="common" />
+	<ui-application appid="org.tizen.example.XamarinApplication.TizenMobile" exec="XamarinApplication.TizenMobile.exe" multiple="false" nodisplay="false" taskmanage="true" splash-screen-display="true" type="dotnet" launch_mode="single">
+		<label>XamarinApplication.TizenMobile</label>
+		<icon>XamarinApplication.TizenMobile.png</icon>
+	</ui-application>
+	<shortcut-list />
+</manifest>

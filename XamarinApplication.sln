@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApplication", "XamarinApplication\XamarinApplication\XamarinApplication.csproj", "{C3EBE78C-91B2-42E3-B8F2-BD683FEB3A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApplication.TizenTV", "XamarinApplication\XamarinApplication.TizenTV\XamarinApplication.TizenTV.csproj", "{B255ED7C-4A06-4C05-BC79-0D3C01482D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinApplication.TizenMobile", "XamarinApplication\XamarinApplication.TizenMobile\XamarinApplication.TizenMobile.csproj", "{DE180370-3CF8-43A8-BA97-2FF26B8E5F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3EBE78C-91B2-42E3-B8F2-BD683FEB3A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EBE78C-91B2-42E3-B8F2-BD683FEB3A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EBE78C-91B2-42E3-B8F2-BD683FEB3A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EBE78C-91B2-42E3-B8F2-BD683FEB3A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B255ED7C-4A06-4C05-BC79-0D3C01482D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B255ED7C-4A06-4C05-BC79-0D3C01482D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B255ED7C-4A06-4C05-BC79-0D3C01482D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B255ED7C-4A06-4C05-BC79-0D3C01482D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE180370-3CF8-43A8-BA97-2FF26B8E5F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE180370-3CF8-43A8-BA97-2FF26B8E5F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE180370-3CF8-43A8-BA97-2FF26B8E5F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE180370-3CF8-43A8-BA97-2FF26B8E5F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
