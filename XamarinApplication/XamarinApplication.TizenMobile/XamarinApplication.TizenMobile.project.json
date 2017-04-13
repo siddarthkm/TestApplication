@@ -16,7 +16,6 @@
       "version": "1.0.0-pre3"
     },
     "Xamarin.Forms.Platform.Tizen": {
-      "type": "platform",
       "version": "2.3.4-r214-002"
     }
   },
